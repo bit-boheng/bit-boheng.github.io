@@ -1,7 +1,7 @@
 main:
-  - title: "简介"
+  - title: "About"
     url: "/#about-me"
-  - title: "学历"
+  - title: "Education"
     url: "/#-xl"
   - title: "论文专利"
     url: "/#-lwzl"
