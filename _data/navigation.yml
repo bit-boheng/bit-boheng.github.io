@@ -3,8 +3,7 @@ main:
     url: "/#about-me"
   - title: "Education"
     url: "/#-xl"
-  - title: "论文专利"
+  - title: "Publications"
     url: "/#-lwzl"
-  - title: "学术会议"
-    url: "/#-xshy"
+
 
