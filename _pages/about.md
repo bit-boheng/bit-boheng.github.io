@@ -40,7 +40,7 @@ My research interests include:
 
 - `Boheng Liu`, Ziyu Li, Chenghua Duan, Yutian Liu, Zhuo Wang, Xiuxing Li, Qing Li, Xia Wu. Cognitive Predictive Processing: A Human-inspired Framework for Adaptive Exploration in Open-World Reinforcement Learning. *NeurIPS 2025*
 
-- `Boheng Liu`, Tianrui Zhang, Yao Yu, Ligang Miao. A data generation method with dual discriminators and regularization for surface defect detection under limited data. *Computers in Industry*, 2023, 151: 103963. (Cited: 38)  
+- `Boheng Liu`, Tianrui Zhang, Yao Yu, Ligang Miao. A data generation method with dual discriminators and regularization for surface defect detection under limited data. *Computers in Industry*, 2023, 151: 103963. 
 [[webpage]](https://doi.org/10.1016/j.compind.2023.103963)
 
 - `Boheng Liu`, Tianrui Zhang, Ligang Miao. Knowledge Distillation via Hypersphere Features Distribution Transfer. *Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM)*, 2022, pp. 4229–4233.  
