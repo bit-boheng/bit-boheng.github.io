@@ -36,7 +36,7 @@ My research interests include:
 
 # 📝 Publications
 
-- `Boheng Liu`, Ziyu Li, Zhong Zhang, Mengrui Xu, Chenghua Duan, Dehao Liu, Qing Li, Xia Wu. RodNet: Visual Pathway-Inspired Adaptive Sparse Network for Efficient Low-Light Image Enhancement. *CVPR 2026 Findings*
+- `Boheng Liu`, Ziyu Li, Zhong Zhang, Mengrui Xu, Chenghua Duan, Dehao Liu, Qing Li, Xia Wu. RodNet: Visual Pathway-Inspired Adaptive Sparse Network for Efficient Low-Light Image Enhancement. *CVPR 2026*
 
 - `Boheng Liu`, Ziyu Li, Chenghua Duan, Yutian Liu, Zhuo Wang, Xiuxing Li, Qing Li, Xia Wu. Cognitive Predictive Processing: A Human-inspired Framework for Adaptive Exploration in Open-World Reinforcement Learning. *NeurIPS 2025*
 
